@@ -171,7 +171,3 @@ python codes/eval_gan.py
 ## How to Cite
 
 If you use this repository or the methods from the research paper, please cite the project as a hybrid GAN-VAE/Wavelet-VAE-GAN study for synthetic brain MRI generation focused on rare cancer data augmentation.
-
-## Additional Notes
-
-This README now reflects the main repository code, the contained research paper, the dataset details reported in the paper, and representative generated images from `generated_images/`. A separate `RESULTS.md` file has also been added for more focused result documentation.
